@@ -1,3 +1,5 @@
+# ⚠️ The bug has been fixed in Xcode 11.4
+
 # SwiftUI List bug
 
 This is a project to show how the behavior of a `List` embedded in a `TabView` which is itself embedded in a NavigationView is bugged when the title of the navigation bar is large.
